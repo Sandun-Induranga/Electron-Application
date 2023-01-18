@@ -19,6 +19,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "electron-reload": "^2.0.0-alpha.1",
     "electron-squirrel-startup": "^1.0.0",
     "electronmon": "^2.0.2"
