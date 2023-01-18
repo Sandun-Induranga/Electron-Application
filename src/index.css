@@ -4,4 +4,9 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
+  background: #333333;
+}
+
+h1{
+  color: white;
 }
