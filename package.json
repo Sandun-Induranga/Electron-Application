@@ -1,0 +1,23 @@
+{
+  "name": "music-player",
+  "productName": "music-player",
+  "version": "1.0.0",
+  "description": "My Electron application description",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": {
+    "name": "Sandun Induranga",
+    "email": "sandutharu40@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
