@@ -13,6 +13,13 @@ h1 {
 }
 
 .btnPlay {
-  background: white;
-  /* background: -o-linear-gradient(#FFAA77,#FF5500); */
+  background: linear-gradient(#ffaa77, #ff5500) !important;
+}
+
+.player-buttons {
+  padding: 10px;
+}
+
+.player-buttons > .btn {
+  margin: 10px;
 }
