@@ -4,8 +4,10 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
-  background: #333333;
-  height: 100vh;
+  background: url(assets/background-image.png);
+  background-size: 100vh;
+  background-position: center;
+  height: 100vh !important;
 }
 
 h1 {
